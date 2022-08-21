@@ -76,8 +76,10 @@ If players describe features of the Promised Planet that are in contradiction, t
 Credits
 -------
 
-The game was created by Cinghy. Inspiration credits go to `Star Trek`_ for its positive view of the future of humanity, and `Hero Kids`_ by Justin Halliday for the very simple but effective method to roll dice for actions.
+The game was created by `Cinghy Creations`_. Cover photo by `ZCH`_. Inspiration credits go to `Star Trek`_ for its positive view of the future of humanity, and `Hero Kids`_ by Justin Halliday for the very simple but effective method to roll dice for actions.
 
+.. _`ZCH`: https://www.pexels.com/photo/sun-behind-a-round-planet-12498767/
+.. _`Cinghy Creations`: https://cinghycreations.itch.io/
 .. _`Star Trek`: https://www.startrek.com/
 .. _`Hero Kids`: http://herokidsrpg.blogspot.com/p/hero-kids-overview.html
 .. _`X-Card`: https://docs.google.com/document/d/1SB0jsx34bWHZWbnNIVVuMjhDkrdFGo1_hSC2BWPlI3A
