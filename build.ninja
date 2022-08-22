@@ -1,0 +1,9 @@
+rule rst2pdf
+  command = rst2pdf --stylesheets=$styles --fit-background-mode=scale --output=$out $in
+
+
+build build\the_promised_planet.pdf: rst2pdf the_promised_planet.rst
+  styles = twocolumn,style.json
+
+build build\the_promised_planet_printer_friendly.pdf: rst2pdf the_promised_planet.rst
+  styles = twocolumn
