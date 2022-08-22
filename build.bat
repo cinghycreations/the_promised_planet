@@ -1,0 +1,1 @@
+rst2pdf --stylesheets=twocolumn,style.json --fit-background-mode=scale --output=build\the_promised_planet.pdf the_promised_planet.rst

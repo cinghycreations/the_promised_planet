@@ -1,0 +1,46 @@
+{
+  "embeddedFonts": [ [ "Orbitron-Regular.ttf", "Orbitron-Bold.ttf", "Orbitron-Regular.ttf", "Orbitron-Bold.ttf" ] ],
+
+  "pageTemplates": {
+    "twoColumn": {
+      "background": "background.png"
+    }
+  },
+
+  "linkColor": "#fa5c5c",
+
+  "styles": [
+    [
+      "base",
+      {
+        "textColor": "#eeeeee"
+      }
+    ],
+    [
+      "title",
+      {
+        "textColor": "#eeeeee",
+        "fontName": "Orbitron-Regular"
+      }
+    ],
+    [
+      "heading",
+      {
+        "textColor": "#eeeeee",
+        "fontName": "Orbitron-Regular"
+      }
+    ],
+    [
+      "table-body",
+      {
+        "textColor": "black"
+      }
+    ],
+    [
+      "table-heading",
+      {
+        "textColor": "black"
+      }
+    ]
+  ]
+}
